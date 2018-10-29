@@ -326,6 +326,23 @@
         </div>
       </section>
       {% endblock showcase %}
+      {% block partners %}
+        {% if custom_theme.partners.all %}
+        <section id="partners">
+        <div class="container text-center">
+          <h2>{{ custom_theme.partners_title|default:_("Our partners") }}</h2>
+          <div class="row">
+              {% for partner in custom_theme.partners.all %}
+              <div class="col-md-6">
+                  <div class="partner_logo" style="background-image: url({% if partner.logo %}{{partner.logo.url}}{% else %}{% static 'geonode/img/missing_thumb.png' %}{% endif %})"></div>
+                  <div><a href="{{ partner.partner_link }}" target="_blank">{{ partner.title }}</a></div>
+              </div>
+              {% endfor %}
+          </div>
+        </div>
+        </section>
+        {% endif %}
+      {% endblock partners %}
 
   {% endblock mainbody %}
 

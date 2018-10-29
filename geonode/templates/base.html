@@ -97,16 +97,7 @@
       {% block extra_head %}
       {% endblock %}
     {% endblock %}
-    <!--[if IE]>
-      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-      <style>
-        #ieflag{
-            display: block !important;
-            height: 150px;
-            text-align: center;
-        }
-      </style>
-    <![endif]-->
+
     <link rel="search" type="application/opensearchdescription+xml" href="/catalogue/opensearch" title="GeoNode Search"/>
   </head>
 
@@ -136,7 +127,7 @@
                     {% if 'geonode.contrib.createlayer' in INSTALLED_APPS %}
                         <li><a href="{% url "layer_create" %}">{% trans "Create Layer" %}</a></li>
                     {% endif %}
-                    <!--<li><a href="{% url "document_upload" %}">Upload Document</a></li>-->
+                    
                 {% endif %}
                 {% if user.is_superuser or user.is_staff %}
                     <li><a href="{% url "register_service" %}">{% trans "Add Remote Service" %}</a></li>
@@ -285,7 +276,6 @@
                 {% if 'geonode.contrib.createlayer' in INSTALLED_APPS %}
                     <li><a href="{% url "layer_create" %}">{% trans "Create Layer" %}</a></li>
                 {% endif %}
-                <!--<li><a href="{% url "document_upload" %}">{% trans "Upload Document" %}</a></li>-->
             {% endif %}
             {% if user.is_superuser or user.is_staff %}
                 <li><a href="{% url "register_service" %}">{% trans "Add Remote Service" %}</a></li>
@@ -338,7 +328,7 @@
           {% endblock contactus %}
          <ul class="list-unstyled">
             <li>{% trans "Powered by" %} <a href="http://dgbap.mmaya.gob.bo">{% trans "DGBAP" %}</a> <em>{% trans "version" %} {{ VERSION }}</em></li>
-            <!--<li><a href="{% url "developer" %}">{% trans "Developers" %}</a> | <a href="{% url "about" %}">{% trans "About" %}</a><li>-->
+           
           </ul>
           <label class="hidden">{% trans "Language" %}</label>
           {% if csrf_token != "NOTPROVIDED" %}

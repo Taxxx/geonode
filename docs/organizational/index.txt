@@ -60,4 +60,4 @@ Table of Content
     contribute/contribute_to_doc_translation
 
 .. _GNIPS: https://github.com/GeoNode/geonode/wiki/GeoNode-Improvement-Proposals
-.. _GeoNode Projects: http://geonode.org/gallery/
+.. _GeoNode Projects: http://68.183.106.33.org/gallery/

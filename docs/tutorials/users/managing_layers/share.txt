@@ -10,7 +10,7 @@ Anonymous access
 
 #. Go to the layer preview of the first layer uploaded, and copy the URL to that preview page.
 
-   .. note:: The URL should be something like: ``http://GEONODE/layers/geonode:san_andres_y_providencia_administrative``
+   .. note:: The URL should be something like: ``http://68.183.106.33/layers/geonode:san_andres_y_providencia_administrative``
 
 #. Now log out of GeoNode by clicking on your profile name and selecting :guilabel:`Log out`.
 

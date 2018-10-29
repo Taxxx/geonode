@@ -9,7 +9,7 @@ This section shows a few of the GeoServer WFS-T capabilities and interactions wi
 Modifying Feature Types using GeoNode
 -------------------------------------
 
-#. Open your instance of `GeoNode <http://geonode.org>`_ and log in as a `superuser` or a user having write rights on at least some `Layers`
+#. Open your instance of `GeoNode <http://68.183.106.33.org>`_ and log in as a `superuser` or a user having write rights on at least some `Layers`
 
    .. figure:: img/wfs-t_geonode1.png
       :align: center

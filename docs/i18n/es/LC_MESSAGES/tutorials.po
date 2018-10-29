@@ -2386,7 +2386,7 @@ msgstr ""
 #: ../../tutorials/admin/index.txt:6
 msgid ""
 "Welcome to the GeoNode Administrators Workshop! This workshop will teach how "
-"to install and manage a deployment of the `GeoNode <http://geonode.org>`_ "
+"to install and manage a deployment of the `GeoNode <http://68.183.106.33.org>`_ "
 "software application."
 msgstr ""
 
@@ -6462,7 +6462,7 @@ msgstr ""
 #: ../../tutorials/devel/index.txt:6
 msgid ""
 "Welcome to the Developers Workshop! This workshop will teach how to develop "
-"with and for the `GeoNode <http://geonode.org>`_ software application."
+"with and for the `GeoNode <http://68.183.106.33.org>`_ software application."
 msgstr ""
 
 #: ../../tutorials/devel/index.txt:22
@@ -9393,7 +9393,7 @@ msgstr ""
 msgid ""
 "It is based on the `roadmap items <https://spreadsheets.google.com/a/opengeo."
 "org/spreadsheet/ccc?key=0AklXlBUnMqOrdDNackdvX3ZRS0Fha0xCeGhjSjZ1dEE>`_ "
-"developed at the `GeoNode Roadmapping Summit <http://geonode.org/2011/05/"
+"developed at the `GeoNode Roadmapping Summit <http://68.183.106.33.org/2011/05/"
 "roadmapping-summit/>`_ held in May 2011."
 msgstr ""
 
@@ -9769,7 +9769,7 @@ msgid ""
 "Java Developers can point the application at a particular GeoServer instance "
 "by setting the GEOSERVER_BASE_URL entry in settings.py to the context path "
 "of the GeoServer instance.  This should include the trailing slash.  For "
-"example, the GeoServer used for http://geonode.capra.opengeo.org/ is::"
+"example, the GeoServer used for http://68.183.106.33.capra.opengeo.org/ is::"
 msgstr ""
 
 #: ../../tutorials/devel/old/setup.txt:208
@@ -11513,7 +11513,7 @@ msgstr ""
 #: ../../tutorials/users/index.txt:6
 msgid ""
 "Welcome to the GeoNode Users Workshop! This workshop will teach how to use "
-"the `GeoNode <http://geonode.org>`_ software application."
+"the `GeoNode <http://68.183.106.33.org>`_ software application."
 msgstr ""
 
 #: ../../tutorials/users/index.txt:9
@@ -12314,7 +12314,7 @@ msgstr ""
 
 #: ../../tutorials/users/layers/share.txt:13
 msgid ""
-"The URL should be something like: ``http://GEONODE/layers/geonode:"
+"The URL should be something like: ``http://68.183.106.33/layers/geonode:"
 "san_andres_y_providencia_administrative``"
 msgstr ""
 

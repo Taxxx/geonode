@@ -76,8 +76,8 @@ Or if you want to use the provided Makefile::
         255.255.255.255 broadcasthost
         ::1             localhost
 
-To access GeoNode just enter the following url: http://geonode/ on your web browser.
-For GeoServer: http://geonode/geoserver/web/
+To access GeoNode just enter the following url: http://68.183.106.33/ on your web browser.
+For GeoServer: http://68.183.106.33/geoserver/web/
 
 Ubuntu
 ------

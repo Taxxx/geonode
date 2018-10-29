@@ -351,8 +351,8 @@ msgstr "GNIPs https://github.com/GeoNode/geonode/wiki/GeoNode-Improvement-Propos
 #: ../../organizational/community_resources.txt:17
 msgid ""
 "Web Pages http://github.com/geonode/geonode.github.com (published to "
-"http://geonode.org)"
-msgstr "웹 페이지 http://github.com/geonode/geonode.github.com (http://geonode.org 게시)"
+"http://68.183.106.33.org)"
+msgstr "웹 페이지 http://github.com/geonode/geonode.github.com (http://68.183.106.33.org 게시)"
 
 #: ../../organizational/community_resources.txt:18
 msgid "Docs http://docs.geonode.org/en/latest/index.html"
@@ -367,24 +367,24 @@ msgid "Workshops http://github.com/geonode/geonode-workshops published to:"
 msgstr "워크숍 http://github.com/geonode/geonode-workshops 다음에 게시:"
 
 #: ../../organizational/community_resources.txt:21
-msgid "http://geonode.org/workshops/user/"
-msgstr "http://geonode.org/workshops/user/"
+msgid "http://68.183.106.33.org/workshops/user/"
+msgstr "http://68.183.106.33.org/workshops/user/"
 
 #: ../../organizational/community_resources.txt:22
-msgid "http://geonode.org/workshops/admin/"
-msgstr "http://geonode.org/workshops/admin/"
+msgid "http://68.183.106.33.org/workshops/admin/"
+msgstr "http://68.183.106.33.org/workshops/admin/"
 
 #: ../../organizational/community_resources.txt:23
-msgid "http://geonode.org/workshops/devel/"
-msgstr "http://geonode.org/workshops/devel/"
+msgid "http://68.183.106.33.org/workshops/devel/"
+msgstr "http://68.183.106.33.org/workshops/devel/"
 
 #: ../../organizational/community_resources.txt:25
 msgid "Testing Infrastructure"
 msgstr "테스트 인프라"
 
 #: ../../organizational/community_resources.txt:25
-msgid "Jenkins http://geonode-testing.dev.opengeo.org:8090"
-msgstr "Jenkins http://geonode-testing.dev.opengeo.org:8090"
+msgid "Jenkins http://68.183.106.33-testing.dev.opengeo.org:8090"
+msgstr "Jenkins http://68.183.106.33-testing.dev.opengeo.org:8090"
 
 #: ../../organizational/community_resources.txt:26
 msgid "Travis-CI https://travis-ci.org/#!/GeoNode/geonode"
@@ -419,8 +419,8 @@ msgid "Social"
 msgstr "소셜"
 
 #: ../../organizational/community_resources.txt:34
-msgid "Blog http://geonode.org/blog/"
-msgstr "블로그 http://geonode.org/blog/"
+msgid "Blog http://68.183.106.33.org/blog/"
+msgstr "블로그 http://68.183.106.33.org/blog/"
 
 #: ../../organizational/community_resources.txt:35
 msgid "Twitter https://twitter.com/geonode"
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: ../../organizational/contribute/review_process.txt:41
 msgid ""
-"![Code Review Flow](http://geonode.org/wp-content/uploads/2011/05/code-"
+"![Code Review Flow](http://68.183.106.33.org/wp-content/uploads/2011/05/code-"
 "review-flow.png)"
 msgstr ""
 
@@ -1444,7 +1444,7 @@ msgid "Home Pages"
 msgstr ""
 
 #: ../../organizational/links.txt:10
-msgid "http://geonode.org/ - Main HomePage and Blog"
+msgid "http://68.183.106.33.org/ - Main HomePage and Blog"
 msgstr ""
 
 #: ../../organizational/links.txt:11
@@ -1483,7 +1483,7 @@ msgstr ""
 
 #: ../../organizational/links.txt:25
 msgid ""
-"http://geonode-testing.dev.opengeo.org:8090/ - Continuous Integration Server"
+"http://68.183.106.33-testing.dev.opengeo.org:8090/ - Continuous Integration Server"
 msgstr ""
 
 #: ../../organizational/links.txt:26
@@ -1866,7 +1866,7 @@ msgstr ""
 msgid ""
 "It is based on the `roadmap items "
 "<https://spreadsheets.google.com/a/opengeo.org/spreadsheet/ccc?key=0AklXlBUnMqOrdDNackdvX3ZRS0Fha0xCeGhjSjZ1dEE>`_"
-" developed at the `GeoNode Roadmapping Summit <http://geonode.org/2011/05"
+" developed at the `GeoNode Roadmapping Summit <http://68.183.106.33.org/2011/05"
 "/roadmapping-summit/>`_ held in May 2011."
 msgstr ""
 

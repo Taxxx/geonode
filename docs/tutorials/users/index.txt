@@ -5,7 +5,7 @@ Users Workshop
 ==============
 Welcome to the GeoNode Training `Users Workshop` documentation v\ |release|.
 
-This workshop will teach how to use the `GeoNode <http://geonode.org/>`_ going in depth into what we can do with software application.
+This workshop will teach how to use the `GeoNode <http://68.183.106.33.org/>`_ going in depth into what we can do with software application.
 At the end of this section you will master all the GeoNode sections and entities from a user perspective.
 
 You will know how to:

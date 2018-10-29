@@ -29,7 +29,7 @@ Existing downstream GeoNode projects
 
 - `MetroBoston DataCommon <http://metroboston.datacommon.org/>`_
 
-- `WFP GeoNode <http://geonode.wfp.org/>`_
+- `WFP GeoNode <http://68.183.106.33.wfp.org/>`_
 
 - `ADRIPLAN <https://github.com/CNR-ISMAR/adriplan>`_
 

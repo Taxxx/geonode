@@ -189,8 +189,8 @@ LinkedIn Application
 
     .. code:: python
 
-        http://geonode.geo-solutions.it/account/linkedin_oauth2/login/callback/
-        http://geonode.geo-solutions.it/account/linkedin/login/callback/
+        http://68.183.106.33.geo-solutions.it/account/linkedin_oauth2/login/callback/
+        http://68.183.106.33.geo-solutions.it/account/linkedin/login/callback/
 
 .. image:: img/008_socialaouth.png
 
@@ -299,7 +299,7 @@ Facebook Application
 
     .. code:: python
 
-        http://geonode.geo-solutions.it/account/facebook/login/callback/
+        http://68.183.106.33.geo-solutions.it/account/facebook/login/callback/
         http://geondoe.geo-solutions.it/account/login/
 
 .. image:: img/030_socialaouth.png

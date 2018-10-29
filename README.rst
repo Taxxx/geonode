@@ -65,7 +65,7 @@ the offical GeoNode installation documentation:
 - `Ubuntu 16.04 <http://docs.geonode.org/en/master/tutorials/install_and_admin/geonode_install/index.html>`__
 - `CentOS 7 <http://docs.geonode.org/en/master/tutorials/install_and_admin/setup_on_centos/index.html>`__
 - `Windows Binary Installer <http://docs.geonode.org/en/master/tutorials/install_and_admin/win_bin_install/win_binary_installer.html>`__
-- `Installation by deb packages <http://geonode.org>`__
+- `Installation by deb packages <http://68.183.106.33.org>`__
 
 Learn GeoNode
 -------------
@@ -131,7 +131,7 @@ Showcase
 A handful of other Open Source projects extend GeoNode’s functionality
 by tapping into the re-usability of Django applications. Visit our
 gallery to see how the community uses GeoNode: `GeoNode
-Showcase <http://geonode.org/gallery/>`__.
+Showcase <http://68.183.106.33.org/gallery/>`__.
 
 The development community is very supportive of new projects and
 contributes ideas and guidance for newcomers.

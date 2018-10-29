@@ -32,7 +32,7 @@ Version:        2.0b1
 Release:        1
 License:        GPL-3.0
 Summary:        GeoNode is a platform for the management and publication of geospatial data
-Url:            http://geonode.org/
+Url:            http://68.183.106.33.org/
 Group:          Productivity/Scientific/Other
 Source0:        %{pyname}-%{version}.tar.gz
 BuildRequires:  fdupes 

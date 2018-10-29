@@ -115,7 +115,7 @@ class DocumentsTest(GeoNodeBaseTestSupport):
         """Tests creating an external document instead of a file."""
 
         superuser = get_user_model().objects.get(pk=2)
-        c = Document.objects.create(doc_url="http://geonode.org/map.pdf",
+        c = Document.objects.create(doc_url="http://68.183.106.33.org/map.pdf",
                                     owner=superuser,
                                     title="GeoNode Map",
                                     )

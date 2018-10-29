@@ -674,12 +674,12 @@ class InitialSetup():
                     "url": "http://{s}.tile.osm.org/{z}/{x}/{y}.png"
                 },
                 "source_san_andres_y_providencia_administrative": {
-                    "url": "http://geonode.dev/qgis-server/tiles"
+                    "url": "http://68.183.106.33.dev/qgis-server/tiles"
                            "/san_andres_y_providencia_administrative/"
                            "{z}/{x}/{y}.png"
                 },
                 "source_relief_san_andres": {
-                    "url": "http://geonode.dev/qgis-server/tiles"
+                    "url": "http://68.183.106.33.dev/qgis-server/tiles"
                            "/relief_san_andres/{z}/{x}/{y}.png"
                 }
             },
@@ -713,7 +713,7 @@ class InitialSetup():
                         "name": layer2.alternate,
                         "title": layer2.name,
                         "visibility": True,
-                        "url": "http://geonode.dev/qgis-server/tiles"
+                        "url": "http://68.183.106.33.dev/qgis-server/tiles"
                                "/san_andres_y_providencia_administrative/"
                                "{z}/{x}/{y}.png",
                         "source": "source_"
@@ -723,7 +723,7 @@ class InitialSetup():
                         "name": layer1.alternate,
                         "title": layer1.name,
                         "visibility": True,
-                        "url": "http://geonode.dev/qgis-server/tiles"
+                        "url": "http://68.183.106.33.dev/qgis-server/tiles"
                                "/relief_san_andres/{z}/{x}/{y}.png",
                         "source": "source_relief_san_andres"
                     }

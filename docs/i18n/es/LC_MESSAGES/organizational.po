@@ -388,7 +388,7 @@ msgstr ""
 
 # 3166cb0aff0945ac80e692c86828f861
 #: ../../organizational/community_resources.txt:13
-msgid "Main HomePage and Blog http://geonode.org"
+msgid "Main HomePage and Blog http://68.183.106.33.org"
 msgstr ""
 
 # 0adca0a926044ba398287f097c7c66ae
@@ -442,7 +442,7 @@ msgid "Social Media"
 msgstr ""
 
 #: ../../organizational/community_resources.txt:27
-msgid "Blog http://geonode.org/blog/"
+msgid "Blog http://68.183.106.33.org/blog/"
 msgstr ""
 
 #: ../../organizational/community_resources.txt:28
@@ -489,7 +489,7 @@ msgstr ""
 #: ../../organizational/community_resources.txt:40
 msgid ""
 "geonode.org Homepage Code http://github.com/geonode/geonode.github.com "
-"(published to http://geonode.org)"
+"(published to http://68.183.106.33.org)"
 msgstr ""
 
 #: ../../organizational/community_resources.txt:43
@@ -533,7 +533,7 @@ msgstr ""
 # d85d8f014b4c480bbf510c8e1a6ddea3
 #: ../../organizational/community_resources.txt:55
 msgid ""
-"Jenkins Continuous Integration Server http://geonode-testing.dev.opengeo."
+"Jenkins Continuous Integration Server http://68.183.106.33-testing.dev.opengeo."
 "org:8090"
 msgstr ""
 
@@ -2188,7 +2188,7 @@ msgstr ""
 
 #: ../../organizational/contribute/review_process.txt:41
 msgid ""
-"![Code Review Flow](http://geonode.org/wp-content/uploads/2011/05/code-"
+"![Code Review Flow](http://68.183.106.33.org/wp-content/uploads/2011/05/code-"
 "review-flow.png)"
 msgstr ""
 
@@ -2351,7 +2351,7 @@ msgstr ""
 
 # 0d117366cece40a088e50e4a0f4f2529
 #: ../../organizational/projects.txt:12
-msgid "Check out our online gallery http://geonode.org/gallery/"
+msgid "Check out our online gallery http://68.183.106.33.org/gallery/"
 msgstr ""
 
 # 6eb209bdcc0b41d8a9e5d7972334cf3c
@@ -2552,7 +2552,7 @@ msgstr ""
 msgid ""
 "It is based on the `roadmap items <https://spreadsheets.google.com/a/opengeo."
 "org/spreadsheet/ccc?key=0AklXlBUnMqOrdDNackdvX3ZRS0Fha0xCeGhjSjZ1dEE>`_ "
-"developed at the `GeoNode Roadmapping Summit <http://geonode.org/2011/05/"
+"developed at the `GeoNode Roadmapping Summit <http://68.183.106.33.org/2011/05/"
 "roadmapping-summit/>`_ held in May 2011."
 msgstr ""
 

@@ -6,7 +6,7 @@ Group:        Productivity/Scientific/Other
 Summary:      GeoNode plug-in for GeoServer
 Version:      0.3
 Release:      1
-URL:          http://geonode.org/
+URL:          http://68.183.106.33.org/
 BuildRoot:    %{_tmppath}/%{name}-%{version}
 Source0:      %{name}-%{version}-geoserver-plugin.zip
 Provides:     %{name}-%{version}-%{release}

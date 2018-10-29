@@ -47,7 +47,7 @@ if [ $? -ne 0 ] ; then
     exit 1
 fi
 
-# Add an entry in /etc/hosts for geonode, to enable http://geonode/
+# Add an entry in /etc/hosts for geonode, to enable http://68.183.106.33/
 echo '127.0.0.1 geonode' | sudo tee -a /etc/hosts
 
 # Deploy demonstration instance in Apache
@@ -180,7 +180,7 @@ if [ "\$STAT" = "" ]; then
     $GEOSERVER_PATH/bin/startup.sh &
     (sleep 4; echo "25"; sleep 4; echo "50"; sleep 4; echo "75"; sleep 4; echo "100") | zenity --progress --auto-close --text "GeoNode is starting GeoServer"
 fi
-firefox http://geonode/
+firefox http://68.183.106.33/
 EOF
 fi
 
@@ -204,7 +204,7 @@ Encoding=UTF-8
 Name=Admin GeoNode
 Comment=GeoNode Home
 Categories=Application;Geography;Geoscience;Education;
-Exec=firefox http://geonode/
+Exec=firefox http://68.183.106.33/
 Icon=/usr/share/icons/geonode.png
 Terminal=false
 StartupNotify=false

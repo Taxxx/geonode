@@ -3907,7 +3907,7 @@ msgstr ""
 #, python-format
 msgid ""
 "\n"
-"    <p><a href=\"http://geonode.org/\">GeoNode</a> is an open service built "
+"    <p><a href=\"http://68.183.106.33.org/\">GeoNode</a> is an open service built "
 "on open source software. We encourage you to build new applications using "
 "the components and resources it provides. This page is a starting point for "
 "developers interesting in taking full advantage of GeoNode. It also includes "

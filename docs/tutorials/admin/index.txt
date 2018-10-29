@@ -6,7 +6,7 @@ Administrators Workshop
 
 Welcome to the GeoNode Training `Administrators Workshop` documentation v\ |release|.
 
-This workshop will teach how to install and manage a deployment of the `GeoNode <http://geonode.org/>`_ software application.
+This workshop will teach how to install and manage a deployment of the `GeoNode <http://68.183.106.33.org/>`_ software application.
 At the end of this section you will master all the GeoNode sections and entities from an administrator perspective.
 
 You will know how to:

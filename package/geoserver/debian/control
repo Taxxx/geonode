@@ -3,7 +3,7 @@ Section: science
 Priority: extra
 Build-Depends: debhelper (>= 7.0.50~), unzip
 Maintainer: Alessio Fabiani <alessio.fabiani@geo-solutions.it>
-Homepage: http://geonode.org
+Homepage: http://68.183.106.33.org
 Vcs-Browser: https://github.com/GeoNode/geonode
 Vcs-git: git://github.com/geonode/geonode.git
 

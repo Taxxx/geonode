@@ -71,7 +71,7 @@ The tutorials are based around performing tasks, like adding data or publishing 
         5. What is a map and a legend.
 
 :ref:`admin_workshop`
-    This workshop will teach how to install and manage a deployment of the `GeoNode <http://geonode.org/>`_ software application.
+    This workshop will teach how to install and manage a deployment of the `GeoNode <http://68.183.106.33.org/>`_ software application.
     At the end of this section you will master all the GeoNode sections and entities from an administrator perspective. 
 
     You will know how to:
@@ -90,7 +90,7 @@ The tutorials are based around performing tasks, like adding data or publishing 
         5. Good knowledge of HTML and CSS.
 
 :ref:`dev_workshop`
-    This workshop will teach how to develop with and for the `GeoNode <http://geonode.org>`_ software application.
+    This workshop will teach how to develop with and for the `GeoNode <http://68.183.106.33.org>`_ software application.
     This module will introduce you to the components that GeoNode is built with, the standards that it supports and the services it provides based on those standards, and an overview its architecture.
 
     *Prerequisites*

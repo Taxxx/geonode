@@ -6,7 +6,7 @@ Developers Workshop
 
 Welcome to the GeoNode Training `Developers Workshop` documentation v\ |release|.
 
-This workshop will teach how to develop with and for the `GeoNode <http://geonode.org>`_ software application.
+This workshop will teach how to develop with and for the `GeoNode <http://68.183.106.33.org>`_ software application.
 This module will introduce you to the components that GeoNode is built with, the standards that it supports and the services it provides based on those standards, and an overview its architecture.
 
 *Prerequisites*

@@ -16,12 +16,23 @@
   {% else %}
   <div class="jumbotron">
   	<div class="container">
-        <h1>{{custom_theme.jumbotron_welcome_title|default:_("Welcome")}}</h1>
-  		<p></p>
-		<p>{{custom_theme.jumbotron_welcome_content|default:_("GeoNode is an open source platform for sharing geospatial data and maps.")}}</p>
-		{% if not custom_theme.jumbotron_cta_hide %}
-  		<a class="btn btn-default btn-lg" target="_blank" href="{{custom_theme.jumbotron_cta_link|default:_("http://docs.geonode.org/en/master/tutorials/users/index.html")}}" role="button">{{custom_theme.jumbotron_cta_text|default:_("Get Started &raquo;")}}</a>
-		{% endif %}
+		<table>
+			<tr>
+				<td>
+					<h2>{% trans "GeoVisor  BIODIVERSIDAD" %}</h2>
+					<p></p>
+			  		<p align="justify">{% blocktrans %}La Dirección General de Biodiversidad y Áreas Protegidas (DGBAP) pone a su disposicion esta herramienta para lograr la visualización y descarga de la informacion geografica referencial (capas y mapas) que se maneja en la misma.{% endblocktrans %}</p>
+			  		<br>
+					<p align="justify">{% blocktrans %}Para mayor información contactese con nosotros, ingresando a la pagina web de la  Dirección General de Biodiversidad y Áreas Protegidas<a href="http://dgbap.mmaya.gob.bo">DGBAP </a>.{% endblocktrans %}</p> 
+					<br>
+					<p align="justify">{% blocktrans %}O ingrese a la pagina oficial del Ministerio de Medio Ambiente y Agua.<a href="http://mmaya.gob.bo">MMAYA </a>.{% endblocktrans %}</p>
+					<a class="btn btn-default btn-lg" target="_blank" href="https://drive.google.com/open?id=1pUfW0DvEfreAgwO-KxqRQOmS7VJ0e4_F" role="button">{% blocktrans %}Como usar el Geovisor DGBAP &raquo;{% endblocktrans %}</a>
+				</td>
+				<td>
+			  		<img src="/static/geonode/img/logo-bg.png" class="fright geonodelogo" width="550" height="200" />
+				</td>
+			</tr>
+		</table>
 	</div>
   </div>
   {% endif %}

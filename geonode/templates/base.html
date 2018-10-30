@@ -136,7 +136,6 @@
                     {% if 'geonode.contrib.createlayer' in INSTALLED_APPS %}
                         <li><a href="{% url "layer_create" %}">{% trans "Create Layer" %}</a></li>
                     {% endif %}
-                    <li><a href="{% url "document_upload" %}">Upload Document</a></li>
                 {% endif %}
                 {% if user.is_superuser or user.is_staff %}
                     <li><a href="{% url "register_service" %}">{% trans "Add Remote Service" %}</a></li>
@@ -285,7 +284,6 @@
                 {% if 'geonode.contrib.createlayer' in INSTALLED_APPS %}
                     <li><a href="{% url "layer_create" %}">{% trans "Create Layer" %}</a></li>
                 {% endif %}
-                <li><a href="{% url "document_upload" %}">{% trans "Upload Document" %}</a></li>
             {% endif %}
             {% if user.is_superuser or user.is_staff %}
                 <li><a href="{% url "register_service" %}">{% trans "Add Remote Service" %}</a></li>
@@ -337,8 +335,7 @@
           {% endif %}
           {% endblock contactus %}
           <ul class="list-unstyled">
-            <li>{% trans "Powered by" %} <a href="http://68.183.101.15.org">{% trans "GeoNode" %}</a> <em>{% trans "version" %} {{ VERSION }}</em></li>
-            <li><a href="{% url "developer" %}">{% trans "Developers" %}</a> | <a href="{% url "about" %}">{% trans "About" %}</a><li>
+            <li>{% trans "Powered by" %} <a href="http://dgbap.mmaya.gob.bo">{% trans "DGBAP" %}</a> <em>{% trans "version" %} {{ VERSION }}</em></li>
           </ul>
           <label class="hidden">{% trans "Language" %}</label>
           {% if csrf_token != "NOTPROVIDED" %}
